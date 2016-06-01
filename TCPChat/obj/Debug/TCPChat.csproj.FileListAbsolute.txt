@@ -1,0 +1,14 @@
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\bin\Debug\TCPChat.exe
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\bin\Debug\TCPChat.pdb
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.csprojResolveAssemblyReference.cache
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.MainForm.resources
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.Properties.Resources.resources
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.csproj.GenerateResource.Cache
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.exe
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.pdb
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.CreateServerForm.resources
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.ConectToServerForm.resources
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\obj\Debug\TCPChat.LoadForm.resources
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\bin\Debug\ServerLib.dll
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\bin\Debug\Newtonsoft.Json.dll
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\TCPChat\bin\Debug\ServerLib.pdb

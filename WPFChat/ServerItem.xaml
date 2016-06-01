@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="TCPChat.ServerItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:WPFChat="clr-namespace:TCPChat"
+             d:DesignHeight="50" d:DesignWidth="160">
+    <Grid Margin="0,1,0,0">
+         <Button x:Name="Button">
+             
+             <Button.ToolTip>
+                 <UserControl >
+                    <Grid>
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="128"/>
+                            <ColumnDefinition Width="232"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Column="0" Source="images/technology.png"></Image>
+                        <StackPanel Grid.Column="1">
+                            <Label>Server Name:</Label>
+                            <Label>Server IP:</Label>
+                            <Label>Server Info:</Label>
+                        </StackPanel>
+                    </Grid>
+                </UserControl>
+                <!--<Image x:Name="Image2" Source="images/technology.png"  Width="150" HorizontalAlignment="Left" Grid.Column="0" />-->
+            </Button.ToolTip>
+            <Grid Width="160" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Image x:Name="Image" Source="images/technology.png" Width="50" HorizontalAlignment="Left" Grid.Column="0" />
+                <Label HorizontalAlignment="Left" x:Name="Text" Grid.Column="1">none</Label>
+            </Grid>
+        </Button>   
+   </Grid>
+</UserControl>

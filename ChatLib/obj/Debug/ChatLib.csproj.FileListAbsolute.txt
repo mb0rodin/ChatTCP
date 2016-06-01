@@ -1,0 +1,5 @@
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ChatLib\bin\Debug\ChatLib.dll
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ChatLib\bin\Debug\ChatLib.pdb
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ChatLib\obj\Debug\ChatLib.csprojResolveAssemblyReference.cache
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ChatLib\obj\Debug\ChatLib.dll
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ChatLib\obj\Debug\ChatLib.pdb

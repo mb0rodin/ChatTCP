@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="WPFChat.UserPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="400"  MaxWidth="500">
+    <Grid>
+       <!--<Grid.Background>
+            <ImageBrush ImageSource="F:\ProgramFiles\zzz new\НОВОЕ\НОВОЕ\47498630.jpg">
+                
+            </ImageBrush>
+        </Grid.Background>-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>   
+       
+        <Image x:Name="Image" Grid.Column="0" Height="100" Width="100" VerticalAlignment="Top" HorizontalAlignment="Left" Source="F:\ProgramFiles\zzz new\an!m\Мое фото 3.png"></Image>
+        <Border Grid.Column="1" BorderBrush="Black" Height="100" VerticalAlignment="Top" BorderThickness="1" />
+        <Border Grid.ColumnSpan="2" Margin="0,100,0,0"  BorderBrush="Black" Height="100" VerticalAlignment="Top" BorderThickness="1" />
+        <StackPanel Grid.Column="1" Height="100" VerticalAlignment="Top">
+            <TextBlock x:Name="NickName" Foreground="AliceBlue" Margin="2,0,2,2" FontSize="16">Some Text For Example</TextBlock>
+            <TextBlock x:Name="UserName"  Foreground="AliceBlue" Margin="2" FontSize="16">Some Text For Example</TextBlock>
+            <TextBlock x:Name="UserAge"  Foreground="AliceBlue" Margin="2" FontSize="16">Some Text For Example</TextBlock>
+            <TextBlock x:Name="UserType"  Foreground="AliceBlue" Margin="2" FontSize="16">Some Text For Example</TextBlock>
+        </StackPanel>
+        <TextBlock  x:Name="UserInfo" TextWrapping = "Wrap"  Height="Auto" Grid.ColumnSpan="2" Foreground="AliceBlue" Margin="0,100,0,0" FontSize="15">Some Text For Example</TextBlock>
+
+    </Grid>
+</UserControl>

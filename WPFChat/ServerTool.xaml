@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="WPFChat.ServerTool"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:TCPChat="clr-namespace:TCPChat"
+            d:DesignHeight="128" d:DesignWidth="360" x:Name="ServerTooll">
+    <Grid> 
+        
+           <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="128"/>
+            <ColumnDefinition Width="232"/>
+        </Grid.ColumnDefinitions> 
+       <Image Grid.Column="0" Source="images/technology.png"></Image>
+        <StackPanel Grid.Column="1">
+            <Label>124trtsfsggh</Label>
+        </StackPanel>
+    </Grid>
+</UserControl>

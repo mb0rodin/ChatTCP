@@ -1,0 +1,6 @@
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ServerLib\bin\Debug\ServerLib.dll
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ServerLib\bin\Debug\ServerLib.pdb
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ServerLib\obj\Debug\ServerLib.dll
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ServerLib\obj\Debug\ServerLib.pdb
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ServerLib\obj\Debug\ServerLib.csprojResolveAssemblyReference.cache
+F:\Users\леново\олд\Visual Studio 2013\Projects\TCPChat\ServerLib\bin\Debug\Newtonsoft.Json.dll
